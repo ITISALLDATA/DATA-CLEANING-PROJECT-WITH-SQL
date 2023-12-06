@@ -1,4 +1,4 @@
-# MY DATA CLEANING PROJECT WITH SQL
+# INTENSE DATA CLEANING WITH SQL
 Data Wrangling - also referred to as data cleaning, data remediation, or data munging - encompasses a range of processes aimed at converting raw data into more easily usable formats. This step is crucial for successful data analysis as it enables proper and efficient data examination, leading to informed business decisions.
 
 ## PROJECT OVERVIEW
